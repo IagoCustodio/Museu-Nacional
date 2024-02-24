@@ -5,7 +5,7 @@
 </h1>
 
 <p><font size="3">
-  Este projeto é um site do Museu-Nacional criado usando HTML e CSS como front-end onde mostro um pouco das minhas habilidades HTML e CSS.
+  Este projeto é um site do Museu-Nacional criado usando HTML e CSS como front-end onde mostro um pouco das minhas habilidades usando HTML e CSS.
   <br><br> 
 </p>
 
