@@ -19,9 +19,8 @@
 
 ![museu](https://github.com/IagoCustodio/Museu-Nacional/assets/74364305/9f52c26c-5d8a-4239-b76a-82e4d26330f8)
 <br><br><br>
-![img2](https://github.com/IagoCustodio/react-netflix/assets/74364305/076f364a-88fe-473a-8e81-a298e9fb5adf)
-<br><br><br>
-![imf3](https://github.com/IagoCustodio/react-netflix/assets/74364305/5faa20ad-0b4c-458f-b70b-34d9d96294ef)
+![museu2](https://github.com/IagoCustodio/Museu-Nacional/assets/74364305/828d67e6-7602-4786-9ae3-0cf65be75475)
+
 
 </div>
 
