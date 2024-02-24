@@ -10,7 +10,7 @@
 
  # Previa do projeto
  
- # Browse Page
+ # Page Principal
 
 <div align="center"><a name="menu"></a>
 
